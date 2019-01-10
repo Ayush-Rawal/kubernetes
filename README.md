@@ -20,7 +20,7 @@ technologies that are container-packaged, dynamically-scheduled
 and microservices-oriented, consider joining the CNCF.
 For details about who's involved and how Kubernetes plays a role,
 read the CNCF [announcement].
-
+ddasfasfas
 ----
 
 ## To start using Kubernetes
